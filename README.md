@@ -2,6 +2,8 @@
 
 Hi, I'm Jeff. I work on security software at [Proofpoint](http://proofpoint.com).
 
+I'm also at [GitLab](https://gitlab.com/quicquid) and [BitBucket](https://bitbucket.org/clementi).
+
 <!--
 **clementi/clementi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
