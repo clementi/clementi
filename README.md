@@ -1,4 +1,6 @@
-## Jeff Pratt
+# Jeff Pratt
+
+Hi, I'm Jeff. I work on security software at [Proofpoint](http://proofpoint.com).
 
 <!--
 **clementi/clementi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
