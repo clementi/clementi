@@ -1,8 +1,8 @@
 # Jeff Pratt
 
-Hi, I'm Jeff. I work on security software at [Proofpoint](http://proofpoint.com).
+Hi, I'm Jeff. I work on security software at :office: [Proofpoint](http://proofpoint.com).
 
-I'm also at [GitLab](https://gitlab.com/quicquid) and [BitBucket](https://bitbucket.org/clementi).
+I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.org/clementi) and [BitBucket](https://bitbucket.org/clementi).
 
 <!--
 **clementi/clementi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
