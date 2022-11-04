@@ -4,8 +4,8 @@ Hi, I'm Jeff. I work on security software at [Proofpoint](http://proofpoint.com)
 
 I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.org/clementi) and [BitBucket](https://bitbucket.org/clementi).
 
-- 🗺️ I live in Utah in the United States.
-- 🧡 I love programming languages, particularly functional languages.
+- 🇺🇸 I live in Utah in the United States.
+- 🥼 I love programming languages, particularly functional languages.
 
 ## 🧰 My Toolbox
 
