@@ -36,13 +36,11 @@ I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.o
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 
-<!--
 ## 📊 My Stats
 
 ![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementi&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 <!--
 **clementi/clementi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
