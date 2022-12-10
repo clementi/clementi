@@ -39,6 +39,7 @@ I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.o
 ## 📊 My Stats
 
 ![Jeff's GitHub Stats](https://github-readme-stats.vercel.app/api?username=clementi&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
