@@ -6,6 +6,7 @@ I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.o
 
 - 🇺🇸 I live in Utah in the United States.
 - 🥼 I love programming languages, particularly functional languages.
+- 📒 I'm delving into cryptocurrencies and blockchains.
 
 ## 🧰 My Toolbox
 
