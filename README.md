@@ -8,6 +8,8 @@ I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.o
 - 🥼 I love programming languages, particularly functional languages.
 - 📒 I'm delving into cryptocurrencies and blockchains.
 
+Here's my [public key](https://jeffreypratt.net/public.pgp).
+
 ## 🧰 My Toolbox
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
