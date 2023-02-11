@@ -1,6 +1,6 @@
 # Jeff Pratt
 
-Hi, I'm Jeff. I work on security software at [Proofpoint](http://proofpoint.com). Formerly at [Ancestry](http://ancestry.com).
+Hi, I'm [Jeff](https://jeffreypratt.net). I work on security software at [Proofpoint](http://proofpoint.com). Formerly at [Ancestry](http://ancestry.com).
 
 I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.org/clementi), [BitBucket](https://bitbucket.org/clementi), and [sourcehut](https://sr.ht/~jpratt/).
 
