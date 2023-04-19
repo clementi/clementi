@@ -10,6 +10,8 @@ I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.o
 
 Here's my [public key](https://jeffreypratt.net/public.pgp).
 
+[This](https://en.wikipedia.org/wiki/Muzio_Clementi) is the namesake of my GitHub username.
+
 ## 🧰 My Toolbox
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
