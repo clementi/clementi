@@ -17,6 +17,7 @@ Here's my [public key](https://jeffreypratt.net/public.pgp).
 ## 🧰 My Toolbox
 
 ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)
 ![Racket](https://img.shields.io/badge/RACKET-rgb(6%2C%20121%2C%20167)?style=for-the-badge&logo=racket&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
