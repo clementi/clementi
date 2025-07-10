@@ -42,6 +42,8 @@ Here's my [public key](https://jeffreypratt.net/public.pgp).
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+![Grok](https://img.shields.io/badge/grok-000000?style=for-the-badge&logo=grok&logoColor=ffffff)
 
 <!-- ## 📊 My Stats
 
