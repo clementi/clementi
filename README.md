@@ -8,7 +8,7 @@ Hi, I'm [Jeff](https://jeffreypratt.net). I work on security software at [Proofp
 - 🥼 I love programming languages, particularly [functional languages](https://en.wikipedia.org/wiki/Functional_programming).
 - 📒 I'm delving into cryptocurrencies and blockchains.
 
-[These](https://github.com/clementi/interests-mindmap) are some of my interests.
+[These](https://github.com/clementi/interests-mindmap) are some more of my interests.
 
 Here's my [public key](https://jeffreypratt.net/public.pgp).
 
