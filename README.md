@@ -4,7 +4,7 @@ Hi, I'm [Jeff](https://jeffreypratt.net). I work on security software at [Proofp
 
 <!-- I'm also at [GitLab](https://gitlab.com/quicquid), [Codeberg](https://codeberg.org/clementi), [BitBucket](https://bitbucket.org/clementi), and [sourcehut](https://sr.ht/~jpratt/). -->
 
-- 🇺🇸 I live in Utah in the United States.
+- 🇺🇸 I live in [Utah](https://en.wikipedia.org/wiki/Utah) in the [United States](https://en.wikipedia.org/wiki/United_States).
 - 🥼 I love programming languages, particularly [functional languages](https://en.wikipedia.org/wiki/Functional_programming).
 - 📒 I'm delving into cryptocurrencies and blockchains.
 
