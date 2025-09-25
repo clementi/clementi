@@ -31,9 +31,9 @@ Here's my [public key](https://jeffreypratt.net/public.pgp).
 ![NuShell](https://img.shields.io/badge/NUSHELL-rgb(41%2C%20151%2C%20100)?style=for-the-badge&logo=nushell&logoColor=ffffff)
 ![Zsh](https://img.shields.io/badge/ZSH-333333?style=for-the-badge&logo=zsh)
 ![Fish](https://img.shields.io/badge/Fish-333333?style=for-the-badge&logo=fish-shell)
-![WezTerm](https://img.shields.io/badge/WezTerm-7e56c2?style=for-the-badge&logo=wezterm)
+![WezTerm](https://img.shields.io/badge/WezTerm-7e56c2?style=for-the-badge&logo=wezterm)<!--
 ![Alacritty](https://img.shields.io/badge/Alacritty-333333?style=for-the-badge&logo=alacritty)
-![Zellij](https://img.shields.io/badge/Zellij-333333?style=for-the-badge)
+![Zellij](https://img.shields.io/badge/Zellij-333333?style=for-the-badge)-->
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<!--
