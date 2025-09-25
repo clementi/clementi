@@ -29,8 +29,8 @@ Here's my [public key](https://jeffreypratt.net/public.pgp).
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NuShell](https://img.shields.io/badge/NUSHELL-rgb(41%2C%20151%2C%20100)?style=for-the-badge&logo=nushell&logoColor=ffffff)
-![Zsh](https://img.shields.io/badge/ZSH-333333?style=for-the-badge&logo=zsh)
-![Fish](https://img.shields.io/badge/Fish-333333?style=for-the-badge&logo=fish-shell)
+![Zsh](https://img.shields.io/badge/ZSH-333333?style=for-the-badge&logo=zsh)<!--
+![Fish](https://img.shields.io/badge/Fish-333333?style=for-the-badge&logo=fish-shell)-->
 ![WezTerm](https://img.shields.io/badge/WezTerm-7e56c2?style=for-the-badge&logo=wezterm)<!--
 ![Alacritty](https://img.shields.io/badge/Alacritty-333333?style=for-the-badge&logo=alacritty)
 ![Zellij](https://img.shields.io/badge/Zellij-333333?style=for-the-badge)-->
