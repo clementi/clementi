@@ -6,7 +6,7 @@ Hi, I'm [Jeff](https://jeffreypratt.net). I work on security software at [Proofp
 
 - 🇺🇸 I live in [Utah](https://en.wikipedia.org/wiki/Utah) in the [United States](https://en.wikipedia.org/wiki/United_States).
 - 🥼 I love [programming languages](https://en.wikipedia.org/wiki/Programming_language), particularly [functional languages](https://en.wikipedia.org/wiki/Functional_programming).
-- 📒 I'm delving into [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) and [blockchains](https://en.wikipedia.org/wiki/Blockchain).
+<!-- - 📒 I'm delving into [cryptocurrencies](https://en.wikipedia.org/wiki/Cryptocurrency) and [blockchains](https://en.wikipedia.org/wiki/Blockchain). -->
 
 [These](https://github.com/clementi/interests-mindmap) are some more of my interests.
 
