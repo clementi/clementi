@@ -73,4 +73,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001396.52c3b24f615b44a193e4e83895d294e0.1956)](https://music-profile.rayriffy.com)
+<!-- [![Apple Music GitHub profile](https://music-profile.rayriffy.com/theme/light.svg?uid=001396.52c3b24f615b44a193e4e83895d294e0.1956)](https://music-profile.rayriffy.com) -->
