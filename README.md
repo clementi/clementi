@@ -31,20 +31,19 @@ Here's my [public key](https://jeffreypratt.net/public.pgp).
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![NuShell](https://img.shields.io/badge/NUSHELL-rgb(41%2C%20151%2C%20100)?style=for-the-badge&logo=nushell&logoColor=ffffff)
-![Zsh](https://img.shields.io/badge/ZSH-333333?style=for-the-badge&logo=zsh)<!-- ![Ghostty](https://img.shields.io/badge/ghostty-0f0f11?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB2aWV3Qm94PSIwIDAgMzIgMzIiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BPGcgY2xpcC1wYXRoPSJ1cmwoI2NsaXAwXzgyMTVfMjIxKSI%2BPHBhdGggZD0iTTIwLjM5NiAzMmE2LjM1IDYuMzUgMCAwIDEtMy41MTctMS4wNjdBNi4zNiA2LjM2IDAgMCAxIDEzLjM2MiAzMmE2LjM1IDYuMzUgMCAwIDEtMy41MTYtMS4wNjdBNi4yNyA2LjI3IDAgMCAxIDYuMzcyIDMyaC0uMDM4YTYuMjYgNi4yNiAwIDAgMS00LjUtMS45MDYgNi4zOCA2LjM4IDAgMCAxLTEuODM2LTQuNDgydi0xMi4yNUMwIDUuOTk1IDUuOTk0IDAgMTMuMzYzIDBzMTMuMzYyIDUuOTk0IDEzLjM2MiAxMy4zNjN2MTIuMjUzYzAgMy4zOTMtMi42MjYgNi4xOTItNS45NzggNi4zNzVxLS4xNzUuMDEtLjM1Mi4wMDkiIGZpbGw9IiMzNTUxRjMiLz48cGF0aCBkPSJNMjAuMzk2IDMwLjU5M2E0LjkzIDQuOTMgMCAwIDEtMy4wOC0xLjA4My42Ni42NiAwIDAgMC0uNDItLjE0NS44LjggMCAwIDAtLjQ4OC4xNzYgNC45NCA0Ljk0IDAgMCAxLTMuMDQ2IDEuMDU1IDQuOTQgNC45NCAwIDAgMS0zLjA0NS0xLjA1NS43NS43NSAwIDAgMC0uOTQyIDAgNC45IDQuOSAwIDAgMS0zLjAxIDEuMDU1aC0uMDMzYTQuODUgNC44NSAwIDAgMS0zLjQ5LTEuNDgyIDQuOTggNC45OCAwIDAgMS0xLjQzNi0zLjQ5OFYxMy4zNjdjMC02LjU5NyA1LjM2NC0xMS45NiAxMS45NTctMTEuOTYgNi41OTIgMCAxMS45NTYgNS4zNjMgMTEuOTU2IDExLjk1NnYxMi4yNTNjMCAyLjY0NS0yLjA0MiA0LjgyNy00LjY1IDQuOTdhNSA1IDAgMCAxLS4yNzQuMDA3IiBmaWxsPSIjMDAwIi8%2BPHBhdGggZD0iTTIzLjkxMiAxMy4zNjN2MTIuMjUzYzAgMS44NzYtMS40NDcgMy40NjMtMy4zMiAzLjU2NmEzLjUgMy41IDAgMCAxLTIuMzk4LS43NjljLS43NzgtLjYyNi0xLjg3My0uNTk4LTIuNjU4LjAyMWEzLjUgMy41IDAgMCAxLTIuMTc2Ljc1MyAzLjUgMy41IDAgMCAxLTIuMTczLS43NTMgMi4xNSAyLjE1IDAgMCAwLTIuNjg0IDAgMy41IDMuNSAwIDAgMS0yLjE1Ljc1M2MtMS45NDguMDE0LTMuNTQtMS42MjctMy41NC0zLjU3NXYtMTIuMjVjMC01LjgyNSA0LjcyNC0xMC41NDkgMTAuNTUtMTAuNTQ5IDUuODI1IDAgMTAuNTQ5IDQuNzI0IDEwLjU0OSAxMC41NSIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Im0xMS4yOCAxMi40MzctMy45My0yLjI3YTEuMDcgMS4wNyAwIDAgMC0xLjQ2My4zOTIgMS4wNyAxLjA3IDAgMCAwIC4zOTEgMS40NjNsMi4zMjYgMS4zNDMtMi4zMjYgMS4zNDNhMS4wNzIgMS4wNzIgMCAwIDAgMS4wNzEgMS44NTVsMy45MzItMi4yN2ExLjA3IDEuMDcgMCAwIDAgMC0xLjg1NHptOC45MDItLjE0NmgtNS4xNjRhMS4wNzEgMS4wNzEgMCAxIDAgMCAyLjE0M2g1LjE2NGExLjA3MSAxLjA3MSAwIDEgMCAwLTIuMTQzIiBmaWxsPSIjMDAwIi8%2BPC9nPjwvc3ZnPg%3D%3D) -->
+![Zsh](https://img.shields.io/badge/ZSH-333333?style=for-the-badge&logo=zsh)
 ![WezTerm](https://img.shields.io/badge/WezTerm-%234E49EE.svg?style=for-the-badge&logo=wezterm&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)<!--
-![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white)--><!-- ![Fedora](https://img.shields.io/badge/Fedora-blue?style=for-the-badge&logo=Fedora) -->
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)<!-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Typst](https://img.shields.io/badge/typst-239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)
 ![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)<!--
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=claudecode&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/opencode-%23000000.svg?style=for-the-badge&logo=opencode&logoColor=ffffff)
